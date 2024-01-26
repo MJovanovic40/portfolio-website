@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "milan-jovanovic-portfolio",
+  "short_name": "Milan Jovanovic Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Milan Jovanovic Portfolio."
+}
